@@ -1,0 +1,7 @@
+beads/beads.db
+beads/beads.db-shm
+beads/beads.db-wal
+beads/.bead-mutation-lock.holder
+beads/issues.jsonl
+/links/**/*.lock
+/link-events/**/.staging/
